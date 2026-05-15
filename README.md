@@ -1,4 +1,4 @@
-# 🎡 Fantasy Land Amusement Park Website
+# Fantasy Land Amusement Park Website
 
 A fully responsive multi-page amusement park website built using **HTML5**, **CSS3**, and **Bootstrap 5**.
 
@@ -6,7 +6,7 @@ This project showcases a modern UI design for a fantasy/amusement park including
 
 ---
 
-## 🚀 Features
+## Features
 
 - Responsive Design
 - Bootstrap 5 Layout
@@ -29,7 +29,7 @@ This project showcases a modern UI design for a fantasy/amusement park including
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```bash
 FantasyLand-Amusement-Park-Bootstrap5/
